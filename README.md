@@ -25,5 +25,3 @@ https://content.minetest.net/packages/SFENCE/church/
 https://github.com/BubbaFrog/irish_history_flags
 
 this map is suppost to be an PVP map that can be played in singleplayer and multiplayer for Minetest
-
-and here is a mediafire link to the mod https://www.mediafire.com/file/w7l6q4txqneg3a6/The+Troubles+Belfast+Map.zip/file
