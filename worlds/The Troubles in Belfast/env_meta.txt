@@ -1,0 +1,7 @@
+day_count = 2
+lbm_introduction_times = :doors:replace_doors_door_glass~0;:doors:replace_doors_door_obsidian_glass~0;:doors:replace_doors_door_steel~0;:doors:replace_doors_door_wood~0;:doors:replace_doors_homedecor_basic_panel~0;:doors:replace_doors_homedecor_carolina~0;:doors:replace_doors_homedecor_closet_mahogany~0;:doors:replace_doors_homedecor_closet_oak~0;:doors:replace_doors_homedecor_exterior_fancy~0;:doors:replace_doors_homedecor_french_mahogany~0;:doors:replace_doors_homedecor_french_oak~0;:doors:replace_doors_homedecor_french_white~0;:doors:replace_doors_homedecor_wood_plain~0;:doors:replace_doors_homedecor_woodglass~0;:doors:replace_doors_homedecor_wrought_iron~0;:doors:replace_xpanes_door_steel_bar~0;:farming:start_nodetimer_cotton~0;:farming:start_nodetimer_wheat~0;:homedecor:convert_bathroom_tiles~0;:homedecor:convert_beds~0;:homedecor:convert_curtains~0;:homedecor:convert_desk_lamps~0;:homedecor:convert_doors_3~0;:homedecor:convert_kitchen_cabinets~0;:homedecor:convert_lighting~0;:homedecor:convert_shutters~0;:lrfurn:convert_armchairs~0;:lrfurn:convert_longsofas~0;:lrfurn:convert_sofas~0;default:3dtorch~0;default:convert_saplings_to_node_timer~0;default:upgrade_chest_locked_v2~0;default:upgrade_chest_v2~0;irish_history_flags:update_node_meta~0;lavalamp:convert~0;moreblocks:fix_split_stone_tile_alt_name_collision~0;moreblocks:reduce_wood_tile_redundancy~0;xpanes:gen2~0;
+lbm_introduction_times_version = 1
+last_clear_objects_time = 0
+time_of_day = 9000
+game_time = 39179
+EnvArgsEnd
