@@ -1,0 +1,8 @@
+#File Name		Time	Gain	Title
+freebelfast	1:45	0.7	Free Belfast
+rollofhonor		3:56	1.0	Roll Of Honor
+kinky_boots		4:22	1.0	Kinky Boots
+rockyroadtodublin		2:26	0.7	Rocky Road To Dublin
+johnstonsmotorcar		2:22	0.7	Johnston's Motor Car
+offtodublin	2:24	1.0	Off to Dublin in the Green
+comeoutyeblackandtans		3:04	1.6	Come Out Ye Black And Tans
