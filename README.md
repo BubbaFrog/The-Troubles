@@ -25,3 +25,5 @@ https://content.minetest.net/packages/SFENCE/church/
 https://github.com/BubbaFrog/irish_history_flags
 
 this map is suppost to be an PVP map that can be played in singleplayer and multiplayer for Minetest
+
+Link to the modpack that has all mod reqired for all of my maps https://www.mediafire.com/file/7zp6w5rrfiw7iju/map_depends.zip/file
